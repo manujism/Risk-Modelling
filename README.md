@@ -6,7 +6,7 @@ VaR answers the question: What is the maximum expected loss over a given time ho
 
 For example, a 1-day 95% VaR of $1 million means there is a 95% chance the portfolio will not lose more than $1 million in one day.
 
-Cvar: CVaR measures the expected loss, given that the loss has exceeded the VaR threshold. 
+CVaR measures the expected loss, given that the loss has exceeded the VaR threshold. 
 
 It provides insight into the "tail risk"—the average of the worst losses beyond the VaR cutoff.
 
