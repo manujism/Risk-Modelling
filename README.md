@@ -45,6 +45,7 @@ Mathematically:
 
 **1. Historical Way:**
 
+
 In the historical method, we use actual historical daily returns of a portfolio to estimate its risk.
 
 First, we collect the daily returns of the portfolio over a period of time and place them into an array.
@@ -65,6 +66,7 @@ This average represents the expected loss in the worst 5% (or appropriate tail) 
 --------
 
 **2. Parametric Method (Variance-Covariance or Analytical Method)**
+
 This method assumes that returns are normally distributed.
 
 We estimate the mean (average return) and standard deviation (volatility) of portfolio returns.
@@ -80,6 +82,7 @@ This method is fast but relies on the strong assumption of normality, which ofte
 -------
 
 **3. Monte Carlo Simulation Method**
+
 This method involves generating a large number of simulated future return scenarios based on statistical models.
 
 We simulate hypothetical returns using the estimated mean and standard deviation, or from more complex models (e.g., correlated assets, fat tails).
