@@ -31,7 +31,6 @@ Mathematically:
 ---------
 Future Enhancements:
 ----
-  Monte Carlo Simulation-based VaR/CVaR
 
   Multi-asset portfolio VaR with correlation matrices
 
