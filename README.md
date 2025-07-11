@@ -1,7 +1,6 @@
 #  Var-and-CVar-Risk-Modelling
 
-
-
+This project provides an end-to-end implementation of Value at Risk (VaR) and Conditional Value at Risk (CVaR) for financial risk management. These are standard tools used by quantitative analysts, portfolio managers, and financial institutions to measure and control downside risk.
 
 VaR answers the question: What is the maximum expected loss over a given time horizon at a certain confidence level?
 
